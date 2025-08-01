@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FlightSchool/static/css/main.ed8e27c3.css",
+    "main.js": "/FlightSchool/static/js/main.d70b5324.js",
+    "static/js/453.70dd0c17.chunk.js": "/FlightSchool/static/js/453.70dd0c17.chunk.js",
+    "index.html": "/FlightSchool/index.html",
+    "main.ed8e27c3.css.map": "/FlightSchool/static/css/main.ed8e27c3.css.map",
+    "main.d70b5324.js.map": "/FlightSchool/static/js/main.d70b5324.js.map",
+    "453.70dd0c17.chunk.js.map": "/FlightSchool/static/js/453.70dd0c17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed8e27c3.css",
+    "static/js/main.d70b5324.js"
+  ]
+}
