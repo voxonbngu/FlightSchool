@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/FlightSchool/static/css/main.d617c6d0.css",
-    "main.js": "/FlightSchool/static/js/main.ab711205.js",
+    "main.css": "/FlightSchool/static/css/main.28c71523.css",
+    "main.js": "/FlightSchool/static/js/main.aa2eda85.js",
     "static/js/453.70dd0c17.chunk.js": "/FlightSchool/static/js/453.70dd0c17.chunk.js",
     "index.html": "/FlightSchool/index.html",
-    "main.d617c6d0.css.map": "/FlightSchool/static/css/main.d617c6d0.css.map",
-    "main.ab711205.js.map": "/FlightSchool/static/js/main.ab711205.js.map",
+    "main.28c71523.css.map": "/FlightSchool/static/css/main.28c71523.css.map",
+    "main.aa2eda85.js.map": "/FlightSchool/static/js/main.aa2eda85.js.map",
     "453.70dd0c17.chunk.js.map": "/FlightSchool/static/js/453.70dd0c17.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d617c6d0.css",
-    "static/js/main.ab711205.js"
+    "static/css/main.28c71523.css",
+    "static/js/main.aa2eda85.js"
   ]
 }
